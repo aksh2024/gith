@@ -11,6 +11,6 @@
 
 ?>
 
-<h1>thanks for your response</h1>
+<h1>Unable to access your github account at the moment,please try after sometime.</h1>
 <?php
 
